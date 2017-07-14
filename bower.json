@@ -7,7 +7,7 @@
     "ignore": [],
     "repository": {
       "type": "git",
-      "url": "https://github.com/jdewit/bootstrap-timepicker"
+      "url": "https://github.com/daitr92/bootstrap-timepicker"
     },
     "dependencies": {
         "bootstrap": "^3.0",
