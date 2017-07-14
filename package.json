@@ -13,14 +13,14 @@
   "files": ["js", "css"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jdewit/bootstrap-timepicker"
+    "url": "git://github.com/daitr92/bootstrap-timepicker"
   },
   "scripts": {
     "test": "bower install; grunt test;",
     "compile": "grunt compile"
   },
   "bugs": {
-    "url": "https://github.com/jdewit/bootstrap-timepicker/issues"
+    "url": "https://github.com/daitr92/bootstrap-timepicker/issues"
   },
   "devDependencies": {
     "grunt-cli": "~0.1",
